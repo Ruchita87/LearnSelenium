@@ -28,6 +28,8 @@ class mouseMove
 
         //action.MoveToElement(ele1).MoveToElement(ele2).Click().Build().Perform();
 
+        //This is added line
+
         IWebElement Email =  driver.FindElement(By.Id("email"));
         Email.SendKeys("testuser");
         IWebElement pass = driver.FindElement(By.Id("pass"));
