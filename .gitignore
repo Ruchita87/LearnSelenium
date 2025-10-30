@@ -5,3 +5,6 @@
 /.vs/GitPlayground/v17
 /.vs/GitPlayground/CopilotIndices/17.14.1231.31060
 /.vs
+/exforgit/.vs/exforgit
+/exforgit/bin/Debug/net8.0
+/exforgit/obj
